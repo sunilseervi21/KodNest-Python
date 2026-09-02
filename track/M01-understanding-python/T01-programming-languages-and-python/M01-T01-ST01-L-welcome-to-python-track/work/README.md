@@ -2,19 +2,19 @@
 
 ## My Name
 
-Write your name.
+sunil seervi
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+now i could understand the problems and think logically
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+bcoz it is esay to learn 
 
 ## My Career Goal
 
-Write the role you want to achieve.
+my goal is to become  software developer
 
 ## What I Understood Today
 

@@ -79,7 +79,25 @@ for x in student2:
     print(f"{x}=>{student2[x]}")#print both the keys and vlaues
 
 for x in student2.items():
-    print(x)    
+    print(x)#prints both key and vlaue
+
+for x in student2.keys():
+    print(x)#it just prints all the keys one by one
+
+for x in student2.values():
+    print(x)#it prints all the vlaues one by one 
+
+
+#nested dictionaries
+s1={
+    "name":"rahul",
+    "tech":["python","sql"],
+    "address":{
+        "city":"Bangalore",
+        "state":"Karnataka"
+    }
+}
+
     
 
 

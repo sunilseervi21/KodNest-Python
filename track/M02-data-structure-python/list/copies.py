@@ -13,8 +13,8 @@ print(Original)
 print(copy2)
 
 #deep copy
-Original=[[10,20],[30,40]]
 import copy
+Original=[[10,20],[30,40]]
 copy3 = copy.deepcopy(Original)
 copy3[0][0]=100
 print(Original)
